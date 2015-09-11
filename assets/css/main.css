@@ -2910,6 +2910,7 @@
 		}
 
 			#header .actions:after {
+				display: none; 
 				background: #ffffff;
 				content: '';
 				height: 100vh;
