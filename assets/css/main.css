@@ -2808,9 +2808,9 @@
 		background-color: #4686a0;
 		color: rgba(255, 255, 255, 0.75);
 		background-attachment: fixed,							fixed,							fixed;
-		background-image: url("../../images/brad_sanders_wilsons_prom.jpg"), url("../../images/brad_sanders_wilsons_prom.jpg");
-		background-position: top left,						center center,					center center;
-		background-size: auto,							cover,							cover;
+		background-image: url("../../images/brad_sanders_wilsons_prom.jpg");
+		background-position: top left;
+		background-size: cover;
 		overflow: hidden;
 		position: relative;
 		text-align: center;
@@ -2910,7 +2910,7 @@
 		}
 
 			#header .actions:after {
-				display: none; 
+				display: none;
 				background: #ffffff;
 				content: '';
 				height: 100vh;
