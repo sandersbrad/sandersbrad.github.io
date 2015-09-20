@@ -2397,6 +2397,7 @@
 		ul.major-icons {
 			list-style: none;
 			padding-left: 0;
+			margin-top: 18%;
 		}
 
 			ul.major-icons li {
@@ -2795,6 +2796,7 @@
 
 			.main.style2 ul.major-icons li .icon {
 				border-color: #ffffff;
+				background-color: rgba(255, 255, 255, 0.43);
 			}
 
 			.main.style2 .icon.major {
