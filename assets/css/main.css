@@ -1833,7 +1833,8 @@
 
 	strong, b {
 		color: #555;
-		font-weight: 400;
+		font-weight: bold;
+		opacity: 0.89;
 	}
 
 	em, i {
@@ -2814,7 +2815,7 @@
 		background-color: #4686a0;
 		color: rgba(255, 255, 255, 0.75);
 		background-attachment: fixed;
-		background-image: url("../../images/brad_sanders_wilsons_prom.jpg");
+		background-image: url("../../images/header_mural.jpg");
 		background-position: top left;
 		background-size: cover;
 		overflow: hidden;
@@ -2965,7 +2966,7 @@
 			-webkit-transition: opacity 1s ease;
 			-ms-transition: opacity 1s ease;
 			transition: opacity 1s ease;
-			background-image: url("../../images/brad_sanders_wilsons_prom.jpg");
+			background-image: url("../../images/header_mural.jpg");
 			background-size: cover;
 			content: '';
 			height: 100%;
